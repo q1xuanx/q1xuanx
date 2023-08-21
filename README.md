@@ -28,5 +28,5 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-nhân-44137b221/)
 <hr>
 ### :fire: My Stats : <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=q1xuanx&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=q1xuanx&theme=highcontrast&hide_border=true&border_radius=3.6&locale=vi)](https://git.io/streak-stats)
 <hr>
