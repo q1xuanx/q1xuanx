@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <hr> 
-- :telescope: I'm a student learn at Hutech University, i learn back-end
+- :accessibility: I'm a student learn at Hutech University, i learn back-end
 
 - :zap: In my free time, I solve problems on Codeforces and read learn new things on Udemy
 
