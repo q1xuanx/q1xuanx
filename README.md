@@ -36,3 +36,5 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1xuanx&layout=compact&theme=vision-friendly-dark"/></a>
 </div>
+![snake gif](https://github.com/q1xuanx/q1xuanx/blob/output/github-contribution-grid-snake.gif)
+
