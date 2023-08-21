@@ -29,6 +29,6 @@
 <hr>
 <div algin="center"><h3><i class="bi bi-fire"></i> My Stats</h3></div>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=q1xuanx"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=q1xuanx&theme=highcontrast&hide_border=true&border_radius=3.6&locale=vi"/></a>
 </div>
 <hr>
