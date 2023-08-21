@@ -33,4 +33,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=q1xuanx&theme=highcontrast&hide_border=true&border_radius=3.6&locale=vi"/></a>
 </div>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1xuanx&layout=compact&theme=vision-friendly-dark"/></a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1xuanx&layout=compact&theme=vision-friendly-dark"/></a>
+</div>
