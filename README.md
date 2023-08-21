@@ -20,6 +20,13 @@
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<hr> 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :zap: In my free time, I solve problems on Codeforces and read learn new things on Udemy
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-nhân-44137b221/)
 <hr>
 ### :fire: My Stats : <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=q1xuanx&theme=dark&background=000000)](https://git.io/streak-stats)
+<hr>
