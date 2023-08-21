@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: qixuanx
+            user_name: q1xuanx
             # Text on contribution graph 
             text: QIXUANX
        - uses: jasineri/simple-push-action@v1
