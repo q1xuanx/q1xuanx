@@ -29,6 +29,7 @@
 <hr>
 ### 🔥<strong> My Stats </strong> <br>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=q1xuanx&theme=highcontrast&hide_border=true&border_radius=3.6&locale=vi"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?  user=q1xuanx&theme=highcontrast&hide_border=true&border_radius=3.6&locale=vi"/></a>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q1xuanx&hide_progress=true)
 <hr>
