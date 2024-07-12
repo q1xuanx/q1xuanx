@@ -26,14 +26,14 @@
 
 👉  :zap: In my free time, I enjoy solving problems on Codeforces, which helps me enhance my problem-solving skills and deepen my understanding of programmingconcepts.          Additionally, I also utilize my free time to expand my knowledge by enrolling in online courses on platforms like Udemy. These courses provide me with                  opportunities to learn new technologies, programming languages, and gain practical skills that are relevant to my back-end development studies.
 
-👉## Programing Languages I Know
+👉Programing Languages I Know
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-👉## Databases I Know
+👉Databases I Know
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
