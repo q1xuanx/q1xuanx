@@ -40,7 +40,6 @@
 
 👉 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-nhân-44137b221/)
 <hr>
-### 🔥<strong> My Stats </strong> <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=q1xuanx&theme=highcontrast&hide_border=true&border_radius=3.6&locale=vi"/></a>
