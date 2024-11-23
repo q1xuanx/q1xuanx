@@ -50,4 +50,5 @@
 </div>
 <hr>
 <img src="gitartwork.svg"/>
-
+    
+    **Life has no “what ifs”**
