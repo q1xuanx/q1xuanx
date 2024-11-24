@@ -51,4 +51,6 @@
 <hr>
 <img src="gitartwork.svg"/>
     
-                                                          Life has no “what ifs”
+<q align="center">
+  <strong><mark>Life has no what ifs</mark></strong>
+</q>
