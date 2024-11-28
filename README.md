@@ -51,6 +51,6 @@
 <hr>
 <img src="gitartwork.svg"/>
     
-<q align="center">
+<div align="center">
   <h2><mark>Don't worry about failure, you only have to be right once</mark></h2>
-</q>
+</div>
