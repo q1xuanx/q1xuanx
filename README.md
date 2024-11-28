@@ -52,5 +52,5 @@
 <img src="gitartwork.svg"/>
     
 <q align="center">
-  <strong><mark>Life has no what ifs</mark></strong>
+  <h2><mark>Don't worry about failure, you only have to be right once</mark></h2>
 </q>
