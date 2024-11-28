@@ -20,7 +20,7 @@
   Hello My Name Is Nhan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<hr> 
+
 👉  🥇 As a student studying at Hutech University, I am currently focusing on learning back-end development.
 
 
