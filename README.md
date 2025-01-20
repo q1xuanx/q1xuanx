@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges" align = center>
   <a href="https://www.linkedin.com/in/hoàng-nhân-44137b221/">
@@ -21,7 +21,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-👉  🥇 As a student studying at Hutech University, I am currently focusing on learning back-end development.
+👉  🥇I come from Kien Giang, and I am currently a fourth-year student at HUTECH University in Ho Chi Minh City. Over the past year, I achieved two significant milestones: I won the consolation prize at the HUTECH Code War 2024 and the third prize at the HDBank Hackathon 2024. Additionally, I have consistently been recognized as an outstanding student from 2022 to 2024.
+
 
 
 👉  :zap: In my free time, I enjoy solving problems on Codeforces, which helps me enhance my problem-solving skills and deepen my understanding of programmingconcepts.          Additionally, I also utilize my free time to expand my knowledge by enrolling in online courses on platforms like Udemy. These courses provide me with                  opportunities to learn new technologies, programming languages, and gain practical skills that are relevant to my back-end development studies.
