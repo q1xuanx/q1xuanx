@@ -32,7 +32,7 @@
 - 🎖 Recognized as an **Outstanding Student (2022 - 2024)**  
 
 💡 **What I love doing:**  
-- 🔥 Solving problems on **Codeforces** to improve problem-solving skills  
+- 🔥 Solving problems on **Codeforces**, **Leetcode** to improve problem-solving skills  
 - 📚 Learning new technologies via **Udemy** & **online courses**  
 - 📱 Passionate about **Mobile** & **Java** Developer
 
