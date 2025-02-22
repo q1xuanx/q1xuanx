@@ -92,7 +92,7 @@
 ---
 
 ## 📬 Contact Me  
-📧 Email: **nhoang2929@example.com**  
+📧 Email: **nhoang2929@gmail.com**  
 🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Hoàng_Nhân-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-nhân-44137b221/)  
 
 ---
