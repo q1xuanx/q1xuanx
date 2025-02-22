@@ -34,7 +34,7 @@
 💡 **What I love doing:**  
 - 🔥 Solving problems on **Codeforces** to improve problem-solving skills  
 - 📚 Learning new technologies via **Udemy** & **online courses**  
-- 📱 Passionate about **Mobile Development**  
+- 📱 Passionate about **Mobile** & **Java** Developer
 
 ---
 
@@ -50,7 +50,6 @@
 
 ### 📱 Mobile Development  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ### 🗄️ Databases  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
