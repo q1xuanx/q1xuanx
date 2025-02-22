@@ -14,13 +14,8 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-<h1 align="center">
-  Hello, I'm Hoàng Nhân 👋
-</h1>
+# Hello my name is **Hoàng Nhân** 🫶
 
 ## 🚀 About Me  
 🎓 I'm a **fourth-year student** at **HUTECH University** in Ho Chi Minh City.  
