@@ -19,7 +19,6 @@
 
 ## 🚀 About Me  
 🎓 I'm a **fourth-year student** at **HUTECH University** in Ho Chi Minh City.  
-💼 Currently working as a **Mobile Developer Intern**.  
 
 🏆 **Achievements:**  
 - 🏅 Consolation Prize at **HUTECH Code War 2024**  
