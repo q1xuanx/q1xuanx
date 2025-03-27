@@ -97,10 +97,4 @@
 
 ---
 
-<div align="center">
-  <img src="gitartwork.svg"/>
-</div>
-
-<div align="center">
-  <h2><mark>"Don't worry about failure, you only have to be right once"</mark></h2>
-</div>
+# **Don't worry about failure, you only have to be right once**
