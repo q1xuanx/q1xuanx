@@ -72,15 +72,6 @@
 
 ---
 
-## 🔥 GitHub Streak  
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=q1xuanx&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
 ## 🏆 GitHub Trophies  
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
