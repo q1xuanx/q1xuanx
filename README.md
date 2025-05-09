@@ -65,9 +65,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=q1xuanx&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1xuanx&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
 </div>
 
 ---
