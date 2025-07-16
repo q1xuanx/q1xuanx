@@ -24,7 +24,7 @@
 - 🏅 Consolation Prize at **HUTECH Code War 2024**  
 - 🥉 3rd Place at **HDBank Hackathon 2024**  
 - 🎖 Recognized as an **Outstanding Student (2021 - 2025)**
-- **Outstanding Student Completing the Program Ahead of Schedule**
+- 🎖 **Outstanding Student Completing the Program Ahead of Schedule**
 
 💡 **What I love doing:**  
 - 🔥 Solving problems on **Codeforces**, **Leetcode** to improve problem-solving skills  
