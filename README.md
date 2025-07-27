@@ -18,46 +18,46 @@
 # Hello my name is **Hoàng Nhân** 🫶
 
 ## 🚀 About Me  
-🎓 I'm a **fourth-year student** at **HUTECH University** in Ho Chi Minh City.  
+
+🎓 I'm a **Software Engineering graduate** from **HUTECH University**, Ho Chi Minh City (2021 - 2025).  
 
 🏆 **Achievements:**  
 - 🏅 Consolation Prize at **HUTECH Code War 2024**  
 - 🥉 3rd Place at **HDBank Hackathon 2024**  
-- 🎖 Recognized as an **Outstanding Student (2021 - 2025)**
-- 🎖 **Outstanding Student Completing the Program Ahead of Schedule**
+- 🎖 **Outstanding Student (2021 - 2025)**  
+- ⏩ **Completed the degree program ahead of schedule**
 
-💡 **What I love doing:**  
-- 🔥 Solving problems on **Codeforces**, **Leetcode** to improve problem-solving skills  
-- 📚 Learning new technologies via **Udemy** & **online courses**  
-- 📱 Passionate about **Mobile** & **Sofware Developer**
-
+💡 **Interests & Hobbies:**  
+- 💻 Competitive Programming on **Codeforces** and **LeetCode**  
+- 📚 Continuously learning via **Udemy**, **Coursera**, and open-source projects  
+- 📱 Passionate about **Backend Engineering**
 ---
 
 ## 💻 Tech Stack  
 
 ### 🚀 Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Databases  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁ Cloud Services  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🛠 Tools & Source Control  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -81,10 +81,14 @@
 </div>
 
 ---
+## 💬 Languages  
+- 🇻🇳 Vietnamese: Native
+- 🇺🇸 English: Intermediate (Reading technical docs, communication)
+---
 
 ## 📬 Contact Me  
-📧 Email: **nhoang2929@gmail.com**  
-🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Hoàng_Nhân-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-nhân-44137b221/)  
+📧 Email: **nhoang2929@gmail.com**   
+🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Hoàng_Nhân-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-nhân-44137b221/)
 
 ---
 
