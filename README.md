@@ -34,9 +34,6 @@
 - 📧 Email: [nhoang2929@gmail.com](mailto:nhoang2929@gmail.com)  
 - 🔗 LinkedIn: [Hoàng Nhân](https://www.linkedin.com/in/hoàng-nhân-44137b221/)  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Software+Craftsmanship;Clean+Code+%26+Scalable+Systems" alt="Typing SVG"/>
