@@ -16,8 +16,8 @@
 
 ## ⚙ Tech Stack
 - **Languages:** C++, Java, C#, Python, JavaScript, Dart  
-- **Frameworks & Tools:** .NET, Spring Boot, Flutter, GitHub, GitLab  
-- **Databases:** SQL Server, MySQL, PostgreSQL, Firebase  
+- **Frameworks & Tools:** .NET, Spring Boot, Flutter, Git  
+- **Databases:** SQL Server, MySQL, PostgreSQL  
 - **Cloud:** AWS  
 
 ## 📊 GitHub Stats
