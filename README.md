@@ -1,7 +1,7 @@
 <h1 align="center">𝓗𝓸𝓪̀𝓷𝓰 𝓝𝓱𝓪̂𝓷</h1>
 
 <p align="center">
-  <i>Software Engineering Graduate — Backend Developer</i>
+  <i>Software Engineer at B3Networks</i>
 </p>
 
 ## ⚛ About Me
