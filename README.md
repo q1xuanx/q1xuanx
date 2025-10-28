@@ -6,10 +6,11 @@
 
 ## ⚛ About Me
 - 🎓 Graduated with distinction, completed the program ahead of schedule.  
-- 🏆 Achievements:  
-  • HUTECH Code War 2024 – Consolation Prize  
-  • HDBank Hackathon 2024 – 3rd Place  
-  • Outstanding Student Award (2021–2025)  
+- 🏆 Achievements:
+  - HUTECH Code War 2024 – Consolation Prize
+  - HDBank Hackathon 2024 – 3rd Place
+  - Outstanding Student Award (2021–2025)
+  - Graduated with honors ahead of schedule
 - 💻 Interested in Backend Systems, Algorithms, Competitive Programming.  
 - 📚 Constant learner via open-source projects, Coursera, Udemy.  
 
