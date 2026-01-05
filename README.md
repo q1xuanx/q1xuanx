@@ -1,6 +1,6 @@
 # Hoàng Nhân
 
-Software Engineer at B3Networks
+*Software Engineer at B3Networks*
 
 ## Profile
 
