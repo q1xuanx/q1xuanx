@@ -14,8 +14,8 @@ Backend-focused software engineer with a strong focus on algorithms and system d
 
 ## Technical Skills
 
-* Programming Languages: C++, Java, C#, Python, JavaScript, Dart
-* Frameworks & Tools: .NET, Spring Boot, Flutter, Git
+* Programming Languages: Java, C#, Python
+* Frameworks & Tools: .NET, Spring Boot, Git
 * Databases: SQL Server, MySQL, PostgreSQL
 * Cloud Platforms: AWS
 
