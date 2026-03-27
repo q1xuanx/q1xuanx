@@ -1,7 +1,5 @@
 # Hoàng Nhân
 
-*Software Engineer at B3Networks*
-
 ## Profile
 
 Backend-focused software engineer with a strong focus on algorithms and system design. Graduated with distinction and completed the academic program ahead of schedule. Experienced in building and maintaining scalable backend systems, with a continuous focus on clean code and long-term maintainability.
